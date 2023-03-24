@@ -47,7 +47,7 @@ body{
     padding-right: 3%;
 }
 
-a:hover{
+:hover{
     color:white;
     background-color: #0d64cf;
     padding: 1%;
